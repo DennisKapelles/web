@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "63b6a5e2a3f6acaf7008581a"
+  },
+  "username": "st1067479",
+  "total_score": 67,
+  "score_previous_month": 0,
+  "current_score": 1031
+},{
+  "_id": {
+    "$oid": "63b6a5e2a3f6acaf7008581b"
+  },
+  "username": "gina20",
+  "total_score": 34,
+  "score_previous_month": 0,
+  "current_score": 45
+},{
+  "_id": {
+    "$oid": "63b6a5e2a3f6acaf7008581c"
+  },
+  "username": "up1067479",
+  "total_score": 7,
+  "score_previous_month": 0,
+  "current_score": 5
+},{
+  "_id": {
+    "$oid": "63b6a5e2a3f6acaf7008581d"
+  },
+  "username": "gin20",
+  "total_score": 78,
+  "score_previous_month": 0,
+  "current_score": 28
+},{
+  "_id": {
+    "$oid": "63b6a5e2a3f6acaf7008581e"
+  },
+  "username": "giannis10",
+  "total_score": 37,
+  "score_previous_month": 0,
+  "current_score": 0
+},{
+  "_id": {
+    "$oid": "63b6a5e2a3f6acaf7008581f"
+  },
+  "username": "george",
+  "total_score": 170,
+  "score_previous_month": 47,
+  "current_score": 0
+},{
+  "_id": {
+    "$oid": "63b6b6eea3f6acaf7008582a"
+  },
+  "username": "den107",
+  "total_score": 42,
+  "score_previous_month": 0,
+  "current_score": 0
+},{
+  "_id": {
+    "$oid": "63b6bb88a3f6acaf7008582d"
+  },
+  "username": "geocy",
+  "total_score": 3,
+  "score_previous_month": 0,
+  "current_score": 0
+},{
+  "_id": {
+    "$oid": "63ba0184e5ae9122cd03d978"
+  },
+  "username": "harry",
+  "total_score": 0,
+  "score_previous_month": 0,
+  "current_score": 0
+},{
+  "_id": {
+    "$oid": "63ba0184e5ae9122cd03d979"
+  },
+  "username": "meg27",
+  "total_score": 52,
+  "score_previous_month": 0,
+  "current_score": 0
+},{
+  "_id": {
+    "$oid": "63ba0184e5ae9122cd03d97a"
+  },
+  "username": "jimjohn",
+  "total_score": 90,
+  "score_previous_month": 0,
+  "current_score": 0
+},{
+  "_id": {
+    "$oid": "63ba0184e5ae9122cd03d97b"
+  },
+  "username": "luc7230",
+  "total_score": 0,
+  "score_previous_month": 0,
+  "current_score": 0
+}]

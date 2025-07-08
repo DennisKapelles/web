@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "63c09783c2aa822f7803cbf9"
+  },
+  "product_name": "Ωμέγα Special Ρύζι Νυχάκι 500γρ",
+  "shop": "Πόντος Άστιγγος",
+  "username": "st1067479",
+  "price": 1.1,
+  "likes": 0,
+  "dislikes": 1,
+  "stock": "yes",
+  "offer_date": "13/01/2022",
+  "expiry_date": "22/01/2023",
+  "criteria": "yes"
+},{
+  "_id": {
+    "$oid": "63c0979fc2aa822f7803cbfa"
+  },
+  "product_name": "Λεβέτι Κασέρι Ποπ Φέτες 175γρ",
+  "shop": "Πόντος Άστιγγος",
+  "username": "st1067479",
+  "price": 0.1,
+  "likes": 1,
+  "dislikes": 1,
+  "stock": "yes",
+  "offer_date": "13/02/2023",
+  "expiry_date": "22/01/2023",
+  "criteria": "yes"
+},{
+  "_id": {
+    "$oid": "63c09887c2aa822f7803cc0c"
+  },
+  "product_name": "Μεβγάλ Τυρί Ημισκλ Μακεδ 420γρ",
+  "shop": "Μασούτης",
+  "username": "st1067479",
+  "price": 1.1,
+  "likes": 8,
+  "dislikes": 2,
+  "stock": "yes",
+  "offer_date": "19/01/2022",
+  "expiry_date": "22/01/2023",
+  "criteria": "yes"
+},{
+  "_id": {
+    "$oid": "63c175ae64130b3dc70111b4"
+  },
+  "product_name": "Κρεμμύδια Κόκκινα Ξερά Εισ ",
+  "shop": "Μασούτης",
+  "username": "gina20",
+  "price": 2.1,
+  "likes": 2,
+  "dislikes": 0,
+  "stock": "yes",
+  "offer_date": "13/01/2023",
+  "expiry_date": "22/01/2023",
+  "criteria": "yes"
+},{
+  "_id": {
+    "$oid": "63c1766564130b3dc70111b5"
+  },
+  "product_name": "Λεμόνια Εισ",
+  "shop": "Μασούτης",
+  "username": "gina20",
+  "price": 2.1,
+  "likes": 0,
+  "dislikes": 0,
+  "stock": "yes",
+  "offer_date": "13/01/2023",
+  "expiry_date": "22/01/2023",
+  "criteria": "yes"
+},{
+  "_id": {
+    "$oid": "63c32369540dd4356106915a"
+  },
+  "product_name": "Knorr Κύβοι Ζωμού Λαχανικών Extra Γεύση 147γρ",
+  "shop": "Μασούτης",
+  "username": "st1067479",
+  "price": 0.1,
+  "likes": 0,
+  "dislikes": 0,
+  "stock": "yes",
+  "offer_date": "14/01/2023",
+  "expiry_date": "22/01/2023",
+  "criteria": "yes"
+},{
+  "_id": {
+    "$oid": "63c69933b99e4c9e32002e86"
+  },
+  "product_name": "Jacobs Καφές Φίλτρου Εκλεκτός 500γρ",
+  "shop": "Kiosk Αγίου Ανδρέου",
+  "username": "st1067479",
+  "price": 3.1,
+  "likes": 0,
+  "dislikes": 0,
+  "stock": "yes",
+  "offer_date": "17/01/2023",
+  "expiry_date": "24/01/2023"
+}]

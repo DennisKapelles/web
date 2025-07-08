@@ -1,0 +1,82 @@
+body {
+    background-color:bisque;
+}
+
+h2 {
+    font-size: 20px;
+    color: #fff;
+}
+
+/* UTILITIES */
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+/* NAVBAR STYLING STARTS */
+
+.navbar {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: teal;
+    color: #fff;
+
+}
+
+.nav-links a {
+    color: #fff;
+}
+
+/* NAVBAR MENU */
+
+.menu {
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+}
+
+.menu li:hover {
+    background-color: #4c9e9e;
+    border-radius: 5px;
+    transition: 0.3s ease;
+}
+
+.menu li {
+    padding: 5px 14px;
+}
+
+.container {
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding: 20px 20px 60px;
+}
+
+#mapid {
+    margin: auto;
+}
+
+button{
+    margin-right: 20px;
+    border: none;
+    background: #084cdf;
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    transition: background .2s ease-in-out;
+}
+
+* {
+    margin:0;
+    padding:0;
+    font-family:Helvetica, Arial, sans-serif;
+}
+

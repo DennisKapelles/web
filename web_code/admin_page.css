@@ -1,0 +1,385 @@
+body {
+    background-color:bisque;
+}
+
+/* UTILITIES */
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+/* NAVBAR STYLING STARTS */
+
+.navbar {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: teal;
+    color: #fff;
+
+}
+
+.nav-links a {
+    color: #fff;
+}
+
+/* NAVBAR MENU */
+
+.menu {
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+}
+
+.menu li:hover {
+    background-color: #4c9e9e;
+    border-radius: 5px;
+    transition: 0.3s ease;
+}
+
+.menu li {
+    padding: 5px 14px;
+}
+
+.container {
+    padding: 20px 20px 60px;
+}
+
+.containers {
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding: 20px 20px 60px;
+}
+
+#mapid {
+    margin: auto;
+}
+
+* {
+    margin:0;
+    padding:0;
+    font-family:Helvetica, Arial, sans-serif;
+}
+
+
+
+input[type=file]::file-selector-button {
+    margin-right: 20px;
+    border: none;
+    background: #084cdf;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    transition: background .2s ease-in-out;
+}
+
+input[type=file]::file-selector-button:hover {
+    background: #0d45a5;
+}
+
+button{
+    margin-right: 20px;
+    border: none;
+    background: #084cdf;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    transition: background .2s ease-in-out;
+}
+
+* {
+    margin:0;
+    padding:0;
+    font-family:Helvetica, Arial, sans-serif;
+}
+
+/* Ladder Navigation */
+#leaderboard {
+    padding:50px;
+}
+.ladder-nav {
+    display:flex;
+    flex-wrap:wrap;
+    align-items: center;
+    background:#5055CB;
+    padding:10px 25px;
+    border-radius:10px;
+    border:1px solid #686EF9;
+}
+.ladder-title {
+    flex:2;
+}
+
+.ladder-title {
+    font-size:20px;
+    color:#888DFF!important;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+/* /end Ladder Navigation */
+
+/* Leaderboard Results */
+.leaderboard-results {
+    text-align:center;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+.leaderboard-results thead th {
+    padding: 25px;
+    color:#747474;
+    font-size:14px;
+    font-weight:bold;
+}
+.leaderboard-results tbody td {
+    padding:15px 25px;
+    background:#1a1a1a;
+    font-size:16px;
+    border-bottom:5px solid #232323;
+}
+.leaderboard-results tbody td:nth-of-type(7) {
+    font-weight:bold;
+}
+.leaderboard-results tbody tr:hover td {
+    background:#1d1d1d;
+}
+.leaderboard-results tbody tr {
+    color:#747474;
+}
+.leaderboard-results tbody tr:first-child {
+    color:#686EF9;
+}
+.leaderboard-results tbody span {
+    font-weight:bold;
+    padding:10px 15px;
+    border-radius:50%;
+}
+.leaderboard-results tbody tr:first-child span {
+    background:#5055CB;
+    color:white;
+}
+.leaderboard-results tbody tr span {
+    background:#262626;
+    color:#747474;
+}
+/* /end Leaderboard Results */
+
+/* Pagination. */
+.pagination {
+    background: #333;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#numbers {
+    padding: 0;
+    margin: 0 2rem;
+    list-style-type: none;
+    display: flex;
+}
+
+#numbers li a {
+    color: #fff;
+    padding: .5rem 1rem;
+    text-decoration: none;
+    opacity: .7;
+}
+
+#numbers li a:hover {
+    opacity: 1;
+}
+
+#numbers li a.active {
+    opacity: 1;
+    background: #fff;
+    color: #333;
+}
+
+.buttons {
+    width: 200px;
+    margin: 0 auto;
+    display: inline;}
+
+.action_btn {
+    width: 200px;
+    margin: 0 auto;
+    display: inline;}
+
+.form {
+    display:inline-block;
+}
+
+#searchBox {
+    position: absolute;
+    right: 20px;
+    top: 1227px;
+    width: 300px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: whitesmoke;
+}
+
+#suggestionsContainer {
+    position: absolute;
+    right: 20px;
+    top: 1268px;
+    width: 325px;
+    border: 1px solid #ccc;
+    border-top: 0;
+    background-color: #fff;
+}
+
+#suggestionsList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#suggestionsList a {
+    display: block;
+    padding: 12px;
+    padding-left: 70px;
+    color: #333;
+    text-decoration: none;
+}
+
+#suggestionsList a:hover {
+    background-color: #eee;
+}
+
+#product{
+    width: 23%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+#shop{
+    width: 23%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+#username{
+    width: 23%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+.form-submit {
+    width: 10%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form-submit:hover {
+    background-color: #45a049;
+}
+
+
+#myChart{
+    width:1800px !important;
+    height:710px !important;
+
+}
+
+#form {
+    max-width: 300px;  /* Set the maximum width of the form */
+    padding: 1px;  /* Add some padding around the form */
+}
+
+form select {
+    width: 100%;  /* Make the input and select elements full width */
+    padding: 5px 10px;  /* Add some padding to the input and select elements */
+    margin: 8px 0;  /* Add some margin to the input and select elements */
+    box-sizing: border-box;  /* Make the input and select elements responsive */
+    border: 1px solid #ccc;  /* Add a border to the input and select elements */
+    border-radius: 4px;  /* Round the corners of the input and select elements */
+}
+
+h2 {
+    font-size: 20px;
+    color: #fff;
+}
+
+/* UTILITIES */
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+/* NAVBAR STYLING STARTS */
+
+.navbar {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: teal;
+    color: #fff;
+
+}
+
+.nav-links a {
+    color: #fff;
+}
+
+/* NAVBAR MENU */
+
+.menu {
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+}
+
+.menu li:hover {
+    background-color: #4c9e9e;
+    border-radius: 5px;
+    transition: 0.3s ease;
+}
+
+.menu li {
+    padding: 5px 14px;
+}
+
+* {
+    margin:0;
+    padding:0;
+    font-family:Helvetica, Arial, sans-serif;
+}
+
+
+
+
+
+

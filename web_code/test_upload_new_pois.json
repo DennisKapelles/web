@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-29T19:41:32Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/354449389",
+        "name": "Kiosk Μενεσθέως",
+        "opening_hours": "Mo-Fr 07:00-21:00, Sa 07:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.712000,
+          38.208000
+        ]
+      },
+      "id": "node/354449389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360217468",
+        "name": "The Mart Προσφυγικά",
+        "name:en": "The Mart",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7419,
+          38.2365
+        ]
+      },
+      "id": "node/360217468"
+    }
+  ]
+}

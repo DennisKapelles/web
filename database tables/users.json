@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "6380f8c6f84951d13700bfc4"
+  },
+  "username": "st1067479",
+  "email": "denniskapelles5@gmail.com",
+  "password": "1234!@#$ASDF",
+  "type": "user",
+  " register_date": "28/11/2022"
+},{
+  "_id": {
+    "$oid": "63878a66bc323e38e8001f6b"
+  },
+  "username": "gina20",
+  "email": "ginadarling@hotmail.com",
+  "password": "123WER!@",
+  "type": "user",
+  "register_date": "30/11/2022"
+},{
+  "_id": {
+    "$oid": "63a6e1205113992a174cdb27"
+  },
+  "username": "up1067479",
+  "email": "denkap@gmail.com",
+  "password": "123!@#ASD",
+  "type": "user",
+  " register_date": "23/11/2022"
+},{
+  "_id": {
+    "$oid": "63b6a30125fee5ee121a7826"
+  },
+  "username": "gin20",
+  "email": "gina@gmail.com",
+  "password": "12345!@#ASD",
+  "type": "user",
+  " register_date": "23/11/2022"
+},{
+  "_id": {
+    "$oid": "63b6a33425fee5ee121a7827"
+  },
+  "username": "giannis10",
+  "email": "john@yahoo.com",
+  "password": "123!@#ASDFG",
+  "type": "user",
+  " register_date": "23/11/2022"
+},{
+  "_id": {
+    "$oid": "63b6a36e25fee5ee121a782a"
+  },
+  "username": "george",
+  "email": "giwrgos@gmail.com",
+  "password": "123!@#$%ASD",
+  "type": "user",
+  " register_date": "23/11/2022"
+},{
+  "_id": {
+    "$oid": "63b6a40325fee5ee121a782b"
+  },
+  "username": "dennis",
+  "email": "den@gmail.com",
+  "password": "12345!@#ASDFGH",
+  "type": "admin",
+  " register_date": "23/11/2022"
+},{
+  "_id": {
+    "$oid": "63b6b6a0a1d61aaa9fbfa366"
+  },
+  "username": "den107",
+  "email": "sak@gmail.com",
+  "password": "2345!@#ASDFG",
+  "type": "user",
+  " register_date": "23/11/2022"
+},{
+  "_id": {
+    "$oid": "63b6bb80a3f6acaf7008582c"
+  },
+  "username": "geocy",
+  "email": "geocode@yahoo.com",
+  "password": "123456!@ASDFGH",
+  "type": "user",
+  "register_date": "05/01/2023"
+},{
+  "_id": {
+    "$oid": "63ba00e02104fd4f0f0abb6c"
+  },
+  "username": "harry",
+  "email": "harryeniskpel@gmail.com",
+  "password": "12345!@#$AS",
+  "type": "user",
+  " register_date": "28/11/2022"
+},{
+  "_id": {
+    "$oid": "63ba01122104fd4f0f0abb6d"
+  },
+  "username": "meg27",
+  "email": "meg27@gmail.com",
+  "password": "234!@#$ASDFWE",
+  "type": "user",
+  " register_date": "28/11/2022"
+},{
+  "_id": {
+    "$oid": "63ba01322104fd4f0f0abb6e"
+  },
+  "username": "jimjohn",
+  "email": "jack@gmail.com",
+  "password": "1234!@#$%^ASDF",
+  "type": "user",
+  " register_date": "28/11/2022"
+},{
+  "_id": {
+    "$oid": "63ba015c2104fd4f0f0abb6f"
+  },
+  "username": "luc7230",
+  "email": "lucas278@gmail.com",
+  "password": "1234!@#$ASDF12",
+  "type": "user",
+  " register_date": "28/11/2022"
+}]

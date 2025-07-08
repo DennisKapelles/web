@@ -1,0 +1,28 @@
+{
+  "fetch_date": 1669214001,
+  "products": [],
+  "categories": [
+    {
+      "id": "8016e637b54241f8ad242ed1699bf2da",
+      "name": "Πάρτι",
+      "subcategories": [
+        {
+          "name": "Καπέλα",
+          "uuid": "1"
+        },
+        {
+          "name": "Κομφετί",
+          "uuid": "2"
+        },
+        {
+          "name": "Σφυρίχτρες",
+          "uuid": "3"
+        },
+        {
+          "name": "Γιρλάντες",
+          "uuid": "4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+    "fetch_date": 1669214001,
+    "products": [
+        {
+            "id": "0",
+            "name": "Τσίλι Πιπεριές",
+            "category": "ee0022e7b1b34eb2b834ea334cda52e7",
+            "subcategory": "a02951b1c083449b9e7fab2fabd67198"
+        },
+        {
+            "id": "1",
+            "name": "Παξιμάδια",
+            "category": "ee0022e7b1b34eb2b834ea334cda52e7",
+            "subcategory": "a483dd538ecd4ce0bdbba36e99ab5eb1"
+        },
+        {
+            "id": "2",
+            "name": "Πέρκα Κονσέρβα",
+            "category": "ee0022e7b1b34eb2b834ea334cda52e7",
+            "subcategory": "df10062ca2a04789bd43d18217008b5f"
+        }
+    ],
+    "categories": [
+        {
+            "id": "8016e637b54241f8ad242ed1699bf2da",
+            "name": "Πάρτι",
+            "subcategories": [
+                {
+                    "name": "Καπέλα",
+                    "uuid": "1"
+                },
+                {
+                    "name": "Κομφετί",
+                    "uuid": "2"
+                },
+                {
+                    "name": "Σφυρίχτρες",
+                    "uuid": "3"
+                },
+                {
+                    "name": "Γιρλάντες",
+                    "uuid": "4"
+                }
+            ]
+        }
+    ]
+}
